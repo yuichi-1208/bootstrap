@@ -1,0 +1,8 @@
+.alert-success {
+  background-color: pink;
+}
+.label-success {
+  margin-bottom: 20px;
+  width: 120px;
+  font-size: 2rem;
+}
